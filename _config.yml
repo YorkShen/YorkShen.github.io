@@ -9,7 +9,7 @@
 title: 玉冈的Blog
 email: shenyuancs@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- 一个徒步爱好者&骑行爱好者，兼一个程序员
+ 首先是一个爱读书的人，其次是徒步爱好者和骑行爱好者，最后是一个程序员。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yorkshen.github.io" # the base hostname & protocol for your site
 github_username:  YorkShen
