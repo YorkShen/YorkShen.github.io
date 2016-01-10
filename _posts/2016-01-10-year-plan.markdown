@@ -1,0 +1,52 @@
+---
+layout: post
+title: 2016，新年新计划
+categories: life
+---
+2016年是正式工作的第一年，希望既能有工作，又能有生活，过上work and life balance的生活。
+
+Hope wishes come ture.
+
+##Life
+* 学做饭
+* 减肥&健身
+* 看人文方面的公开课，拓展知识领域
+* 学习一个业余爱好(如射箭)
+* 补剧&追剧
+* 继续读书
+* 继续旅行&徒步&骑车
+
+##Code
+下面这些领域没有深入了解过，不知道个人兴趣点在哪里，所以，做完加粗项目就好，其他看兴趣喽。
+
+* 编程语言方面
+	* **SICP**
+	* Programming language pragmatics
+	* Compilers: Principles,Techniques,and Tools
+	* Purely Functional Data Structures
+	* Haskell
+* 数学方面
+	* **Concrete Math**
+	* All the mathematics you missed
+	* Linear Algebra
+* 算法方面
+	* **CLRS**
+	* Pattern recognition and machine learning
+	* LeetCode
+* 移动开发
+	* **Material design**
+	* **Swift与iOS开发**
+	* Android开发艺术探索
+* 云计算
+	* Hadoop: The definitive guide
+* 后台开发
+	* Node.js
+	* PHP
+	* J2EE
+* **前端**
+* 设计&产品
+	* **Sketch**
+	* **利用Material Design做一个Android App**
+	* **利用前端技能，做一个简历项目**
+	* **Python爬虫爬知乎漂亮妹子**
+	* **利用Swift做一个iOS App**
