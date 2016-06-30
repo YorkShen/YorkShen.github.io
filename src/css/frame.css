@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Helvetica Neue", "Source Han Sans CN", "arial", "sans-serif";
+    font-weight: 400;
+    font-size: 1.5625vw;
+    box-sizing: border-box;
+}
+
+#frame {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#left, #content {
+    padding: 9.375vw 3.125vw;
+    word-break: break-all;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+}
+
+#left {
+    color: white;
+    flex-basis: 37.5%;
+    background-color: #3e3e3e;
+}
+
+#content {
+    color: black;
+    flex-basis: 62.5%;
+    background-color: white;
+}
+
+@media only print {
+    a {
+        text-decoration: none;
+    }
+}

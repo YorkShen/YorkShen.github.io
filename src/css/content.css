@@ -1,0 +1,42 @@
+.main_title {
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.sub_title {
+    font-size: 2.25rem;
+    font-weight: 500;
+    color: black;
+    vertical-align: -1.5em;
+}
+
+.hint {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+.main_text {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.item{
+
+}
+
+.main_title + .item .sub_title{
+    vertical-align: baseline;
+}
+
+.sub_item{
+    padding-top: 0.7815vw;
+    padding-bottom: 0.7815vw;
+}
+
+.sub_title + .sub_item{
+    padding-top: 0;
+}
+
+.sub_item:last-child{
+    padding-bottom: 0;
+}
