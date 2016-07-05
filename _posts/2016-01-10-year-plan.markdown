@@ -7,7 +7,7 @@ categories: life
 
 Hope wishes come ture.
 
-##Life
+## Life
 * 学做饭
 * 减肥&健身
 * 看人文方面的公开课，拓展知识领域
@@ -16,7 +16,7 @@ Hope wishes come ture.
 * 继续读书
 * 继续旅行&徒步&骑车
 
-##Code
+## Code
 下面这些领域没有深入了解过，不知道个人兴趣点在哪里，所以，做完加粗项目就好，其他看兴趣喽。
 
 * 编程语言方面
