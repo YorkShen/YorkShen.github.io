@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "迟到的2015年终总结"
 categories: life
 ---

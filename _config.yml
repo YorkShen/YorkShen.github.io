@@ -16,3 +16,14 @@ github_username:  YorkShen
 
 # Build settings
 markdown: kramdown
+defaults:
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      author: "玉冈"
