@@ -3,8 +3,8 @@ title: Weex Android Border绘制
 categories: Android
 ---
 
-#Weex Android Border绘制
-本问首发于[云栖社区](https://yq.aliyun.com/articles/60784)，已通过安全审批。文章介绍了如何在Android上实现**CSS border**属性。
+# Weex Android Border绘制
+本问首发于[云栖社区](https://yq.aliyun.com/articles/60784)，介绍了如何在Android上实现**CSS border**属性。
 
 ## 背景
 在Weex中，`border`实际上代表了四个属性，即`border-width`, `border-color`, `border-style`, `border-radius`，实际上Weex并不支持`border`这个shorthand。这四个属性的默认值和所支持的值与W3C略有不同：
