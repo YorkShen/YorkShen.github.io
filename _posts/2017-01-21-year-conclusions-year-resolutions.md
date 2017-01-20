@@ -6,7 +6,7 @@ categories: life
 
 # 2016
 
-## Android && 工作
+## Android & 工作
 写了一年Android代码，还算有些收获。
 
 * 阅读W3C标准，按照标准去实现功能，尽管细节上有些疏漏，但大体还算说的过去。
