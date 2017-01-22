@@ -59,7 +59,7 @@ Sketch入门，用jade编写了一个[简历引擎](https://github.com/YorkShen/
 * 参见一场全程马拉松
 * 参加深圳百公里
 * 读书，两周一本，26本以上即可，今年质量比数量更重要。
-* 看三门人文方面的公开课不(Positive psychology不算在数量中)
+* 看三门人文方面的公开课(Positive psychology不算在数量中)
 * 看大明王朝1566
 * 学习摄影
 * 考驾照
