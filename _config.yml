@@ -27,3 +27,6 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       author: "玉冈"
+
+plugins:
+  - jemoji

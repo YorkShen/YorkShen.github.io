@@ -1,3 +1,7 @@
+---
+title: Weex Android 动画解密
+categories: Android
+---
 # 背景
 在目前常见的交互方式中，动画扮演了一个重要的角色。
 
