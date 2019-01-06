@@ -63,5 +63,9 @@ layout: post
 * 完成三门公开课的学习
 * 一个月一篇Blog
 * 工作日2小时自由时间，周末6小时的自由时间，自由时间用来阅读或业余爱好
-* 认识更多人，Get Connected and Involved
 * 每周非技术书籍阅读时间达到10小时
+* 完成以下书籍阅读
+    * 经济学原理
+    * GEB
+* 认识更多人，Get Connected and Involved
+
