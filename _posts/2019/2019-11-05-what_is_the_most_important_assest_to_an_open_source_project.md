@@ -1,3 +1,8 @@
+---
+title: 什么是开源项目最重要的资产
+categories: OSS
+layout: post
+---
 *本文最初由我发布在 [Weex 博客](https://weex.apache.org/zh/blog/what_is_the_most_important_assest_to_an_open_souce_project.html)上，文章内容处于Apache License V2协议授权下。*
 
 # 引言
