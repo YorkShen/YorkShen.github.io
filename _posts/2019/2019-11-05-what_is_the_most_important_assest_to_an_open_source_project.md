@@ -44,7 +44,7 @@ Governance Model 是一个开源社区的组织方式，其内容包括项目的
 ## Brand 与 Trademark 的关系
 开源是一门**眼球**生意，开源项目通过 Brand 吸引新用户，并将用户转化为贡献者与 Committer。项目 Brand 越知名，意味着项目的参与者越多，活跃度也越高，演进的速度也越快。
 
-![brand_trademark.png](https://weex.apache.org/assets/img/brand_trademark.1a7a7c7e.png)
+![brand_trademark.png](/assets/img/2019-11-05/brand_trademark.png)
 
 Trademark 可以看作是 Brand 的实例化。Trademark 一般和某种特定的符号相关联，常见表现形式为名字或 Logo。
 
