@@ -59,15 +59,16 @@ layout: post
 
 ## 编程书籍与实践
 * SICP
-* LLVM
-    * Brain Fuck
 * 移动开发
     * Android
         * Android开发艺术探索
-        * 用 Kotlin 做一个Andorid App ，*如优化 Weex Playground*
+        * 用 Kotlin 重写 Weex Playground
     * iOS
         * Swift
-        * 做一个照片搜索的 App
+        * 用 Swift 做一个照片搜索的 App
+* LLVM
+    * Brain Fuck
+* SpringBoot
 
 ## 生活
 * 体重减到 62.7 kg，并保持下去
